@@ -1,9 +1,8 @@
- **Customer Churn Prediction Model**
+# Customer Churn Prediction Model
 
 ## Overview
 
-This project predicts whether a customer is likely to leave a company (churn) using Machine Learning techniques. 
-The model analyzes customer behavior, account details, and service usage patterns to identify high-risk customers.
+This project predicts whether a customer is likely to leave a company (churn) using Machine Learning techniques. The model analyzes customer behavior, account details, and service usage patterns to identify high-risk customers.
 
 ## Features
 
@@ -35,7 +34,16 @@ The model analyzes customer behavior, account details, and service usage pattern
 
 The model helps identify customers with a high chance of churning, enabling businesses to improve customer retention strategies.
 
+## Project Structure
 
+```bash
+├── data/
+├── notebooks/
+├── models/
+├── churn_prediction.ipynb
+├── requirements.txt
+└── README.md
+```
 
 ## Future Improvements
 
@@ -46,3 +54,4 @@ The model helps identify customers with a high chance of churning, enabling busi
 ## Author
 
 Khushi Sharma
+
